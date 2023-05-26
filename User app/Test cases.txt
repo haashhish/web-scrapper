@@ -1,0 +1,10 @@
+Test cases for each option from the menu:
+-----------------------------------------
+2- Mark AD ID: 195854413 as a done sale
+3- View Reviews of this ad: 196155871
+4- Check reviews for seller: /en/companies/khaled-aboud-automotive-933
+5- car brand: bmw, body type: sedan, Year: 2019, Area: nasr city, City: cairo
+6- Area: mokattam, City: cairo, starting price: 400000, price limit: 500000, features: 1,2,3,5,6,7,8,10,12,15,16,18,19,20,21,22,26
+7- car make: bmw, car model: c180
+9- name: mohamed or auto 7
+10- starting year: 2010 to 2022
